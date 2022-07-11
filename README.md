@@ -2,7 +2,7 @@
 
 **1. Dynamic Programming:** Implement a solution to the below dynamic programming problem. First implement a solution using a top-down approach (making recursive calls and storing “memos”), and then implement a solution using the bottom-up method (filling in a table with a for-loop instead of recursive calls).
   - **Problem:** There is a dragon with exactly n health. Find the minimum number of magical stones needed to inflict exactly n damage. Stones are each associated with a fixed amount of damage it inflicts, and one is able to select a stone as many times as they want. The stone damages are given in an array. One can assume there always exists a set of stones that can kill the dragon. 
-  - **Solution:** In the first section of my program, you can find both the top-down and bottom-up approaches for solving this problem.
+  - **Solution:** In the first section of my program, you can find both the top-down and bottom-up solutions.
 
 
 **2. Two-Finger Algorithm:**
