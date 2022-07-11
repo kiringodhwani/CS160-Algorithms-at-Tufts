@@ -7,6 +7,6 @@
 
 **2. Two-Finger Algorithm:**
   - **Problem:** Given an array of distinct numbers, define a flip to be a pair of numbers such that the smaller one is to the right of the larger one. For example, in the array [3, 2, 1], there are three flips: (3, 2), (3, 1), and (2, 1). The array [1, 2, 3] has zero flips. Provide an algorithm that finds the number of flips in any permutation of n numbers. It must run in Θ(n log n) time.
-  - **Solution:** To solve this problem, I used a two-finger algorithm / modified version of MergeSort. In the 2nd section of my progran, you can find said solution.
+  - **Solution:** To solve this problem, I used a two-finger algorithm / modified version of MergeSort. In the 2nd section of my program, you can find said solution.
 
 
