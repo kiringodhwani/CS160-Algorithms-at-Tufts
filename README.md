@@ -1,6 +1,6 @@
 **Assignment:**
 **1. Dynamic Programming:** Implement a solution to the below dynamic programming problem. First implement a solution using a top-down approach (making recursive calls and storing “memos”), and then implement a solution using the bottom-up method (filling in a table with a for-loop instead of recursive calls).
-  - There is a dragon with exactly n health. Your task is to find the minimum number of magical stones needed to inflict exactly n damage, as to not tire our adventurer. Stones are each associated with a fixed amount of damage it inflicts, and you are able to select a stone as many times as you want. The stone damages are given to you in an array. You can assume there always exists a set of stones that can kill the dragon.
+  - There is a dragon with exactly n health. Find the minimum number of magical stones needed to inflict exactly n damage, as to not tire our adventurer. Stones are each associated with a fixed amount of damage it inflicts, and you are able to select a stone as many times as you want. The stone damages are given to you in an array. You can assume there always exists a set of stones that can kill the dragon.
   - In the first section of my program, you can find both the top-down and bottom-up approaches for solving this problem.
 
 
